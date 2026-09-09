@@ -50,7 +50,7 @@ I am a fourth-year **Data Science and Engineering** student at the **University 
 - 🧬 **[Evolutionary Computation](https://github.com/CarlotaAyala/evolutionary-computation)**  
   Implementation and comparison of optimization algorithms including Differential Evolution and population-based metaheuristics.
 
-- 📅 **[Event&Go](LINK_EVENTGO)**  
+- 📅 **[Event&Go](https://github.com/Tom-y-Jerry/Event-Go)**  
   Collaborative event management application developed in Java.
 
 ### 📚 More Projects
