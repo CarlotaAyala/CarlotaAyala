@@ -35,26 +35,28 @@ I am a fourth-year **Data Science and Engineering** student at the **University 
 
 ### 🚀 Featured Projects
 
-- 📊 **AEDV – Exploratory Data Analysis & Visualization**  
-  Exploratory data analysis and visualization project developed using R.
+- 🩺 **[HIV/AIDS Data Analysis & Visualization](https://github.com/CarlotaAyala/hiv-data-analysis)**  
+  Exploratory data analysis and interactive visualization of global HIV/AIDS data using R.
 
-- 📅 **Event&Go**  
-  Collaborative event management application developed as part of the DACD course.
+- 🧠 **[RBF Neural Network with ADALINE](https://github.com/CarlotaAyala/rbfnn-adaline)**  
+  Radial Basis Function Neural Network using K-Means, Gaussian activations and ADALINE.
 
-- 🚗 **Vehicle Detection**  
-  Computer vision project focused on detecting vehicles in road scenes.
+- 🎬 **[Movie Recommender System](https://github.com/CarlotaAyala/movie-recommender-system)**  
+  User-based collaborative filtering recommender using KNN, Pearson similarity and baseline predictions.
 
-- 🗺️ **Travelling Salesman Problem (TSP)**  
-  Optimization project focused on solving the Travelling Salesman Problem.
+- 🚗 **[Vehicle Detection and Traffic Counting](https://github.com/CarlotaAyala/vehicle-detection-and-counting)**  
+  Classical computer vision pipeline for vehicle detection, tracking and traffic counting using OpenCV.
 
-- 🧠 **IACD Final Project**  
-  Artificial Intelligence and Data Science project.
+- 🧬 **[Evolutionary Computation](https://github.com/CarlotaAyala/evolutionary-computation)**  
+  Implementation and comparison of optimization algorithms including Differential Evolution and population-based metaheuristics.
 
-- 🧬 **Evolutionary Computation Projects**  
-  Projects focused on evolutionary algorithms and optimization techniques.
+- 📅 **[Event&Go](LINK_EVENTGO)**  
+  Collaborative event management application developed in Java.
 
-- 🗄️ **Database Project**  
-  Database design, implementation and querying project.
+### 📚 More Projects
+
+- 🗺️ **[Travelling Salesman Problem Optimization](https://github.com/CarlotaAyala/travelling-salesman-optimization)**
+- 🔎 **[Search Algorithms Comparison](https://github.com/CarlotaAyala/search-algorithms-comparison)**
 
 ---
 
